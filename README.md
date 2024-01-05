@@ -1,5 +1,5 @@
 # tic-tac-toe
-##[Live demo](https://abdelrahmanlatif04.github.io/tic-tac-toe/main.html)
+## [Live demo](https://abdelrahmanlatif04.github.io/tic-tac-toe/main.html)
 A simple tic tac toe game
 
 ## How to play it
